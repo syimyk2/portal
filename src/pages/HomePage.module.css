@@ -1,0 +1,6 @@
+.main_control{
+    background: url(../assets/img/main-background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
